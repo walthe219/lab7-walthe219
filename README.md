@@ -1,8 +1,12 @@
-# Lab 4
+# Lab 5
+
+This lab focuses on quantum concepts such as Barrier, Oracle, Deutsch Algorithm and Deutsch Jozsa Algorithm. (Week 5 Lecture)
 
 ## Setting up
 
 ### For Windows
+
+On command prompt. You can open command prompt using `cmd` command if you are on a powershell.
 
 ```powershell
 .\install.bat
@@ -18,12 +22,10 @@ source ./.venv/bin/activate
 
 ## Tasks
 
-*NOTE*: Before jumping into the tasks, make sure you have completed Quiz 1 which is available in your Gradescope.
-
-Tasks are provided as interactive jupyter notebooks inside `tasks` directory. Follow the instructions provided in each cell.
+Please check `task.ipynb` file for task information in detail.
 
 ## Submitting
 
-Before submitting the lab work, make sure you have run all of the cells so that output is also committed along with your code.
+Before submitting the lab work, make sure you have run all of the jupyter cells so that output is also committed along with your code.
 
 You can submit your work using Gradescope, either by connecting your repository or uploading the tasks file.
