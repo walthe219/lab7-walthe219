@@ -1,6 +1,4 @@
-# Lab 5
-
-This lab focuses on quantum concepts such as Barrier, Oracle, Deutsch Algorithm and Deutsch Jozsa Algorithm. (Week 5 Lecture)
+# Lab 7
 
 ## Setting up
 
